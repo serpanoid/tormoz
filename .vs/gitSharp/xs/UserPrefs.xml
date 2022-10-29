@@ -1,9 +1,11 @@
 ﻿<Properties StartupConfiguration="{0E3B9D40-C46E-4704-A9DD-0735949341DD}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="gitSharp/Program.cs">
     <Files>
-      <File FileName="gitSharp/Program.cs" Line="39" Column="20" />
+      <File FileName="gitSharp/Program.cs" Line="1" Column="34" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,8 +21,6 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.gitSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
